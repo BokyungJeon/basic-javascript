@@ -1,0 +1,2 @@
+# javascript
+studying basic javascript
